@@ -1,6 +1,6 @@
 # projeto_programação_orientada_objeto
 
-**TimeFutebol - Trabalho Final**<br>
+**Trabalho Final: TimeFutebol**<br>
 
 Este projeto em Programação Orientada a Objetos (POO) implementa a estrutura de um time de futebol,<br>
 abordando conceitos fundamentais da POO, como herança, polimorfismo, encapsulamento, e abstração.
