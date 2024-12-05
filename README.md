@@ -19,6 +19,7 @@ Herança: Classes específicas de jogadores herdando de uma classe base.<br>
 Polimorfismo: Métodos com comportamentos diferentes em subclasses.<br>
 Encapsulamento: Controle de acesso aos atributos dos objetos.<br>
 Abstração: Modelagem de objetos e comportamentos do sistema.<br>
+Lambida (ou Expressões Lambda): Utilizadas para simplificar a implementação de ações em eventos e manipulação de listas.
 
 **Bibliotecas Utilizadas:**
 
