@@ -1,4 +1,4 @@
-# projeto_final_POO
+# projeto_programação_orientada_objeto
 
 TimeFutebol - Trabalho Final em POO
 Este projeto em Programação Orientada a Objetos (POO) implementa a estrutura de um time de futebol, abordando conceitos fundamentais da POO, como herança, polimorfismo, encapsulamento, e abstração.
@@ -14,12 +14,12 @@ Interface gráfica interativa para gerenciamento do time e exibição de informa
 
 # Conceitos POO:
 
-**Herança**: Classes específicas de jogadores herdando de uma classe base.
+Herança: Classes específicas de jogadores herdando de uma classe base.
 Polimorfismo: Métodos com comportamentos diferentes em subclasses.
 Encapsulamento: Controle de acesso aos atributos dos objetos.
 Abstração: Modelagem de objetos e comportamentos do sistema.
 
-Bibliotecas Utilizadas: 
+**Bibliotecas Utilizadas:** 
 javax.swing: Para criação e gerenciamento da interface gráfica do sistema.
 javax.swing.table.DefaultTableModel: Para exibição e manipulação de dados em tabelas dinâmicas.
 java.awt: Para personalização de layouts e componentes gráficos.
